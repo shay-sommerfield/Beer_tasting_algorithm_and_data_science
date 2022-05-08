@@ -34,7 +34,7 @@ We quickly realized that the tastes of the beers were blending together since th
 ## Results
 Using the above ranking process, all beers were ranked 1 - 12. 
 ### Average Ranking
-| Beer | Average Ranking amongst our group|
+| Beer | Average Ranking|
 | ----- | -- |
 |Kokanee                              |  6.2|
 |10 Barrel Pub Beer (craft control)   |  5.4|
@@ -52,7 +52,7 @@ Using the above ranking process, all beers were ranked 1 - 12.
 The average shows high rating for Montucky Cold Snacks, a low rating for Budweiser, and everything else at the middle of the pack. 
 
 ### Standard deviation of Ranking
-| Beer | Standard deviation amongst our group|
+| Beer | Standard deviation|
 | ----- | -- |
 |Kokanee                             |  3.563706|
 |10 Barrel Pub Beer (craft control)  |  3.577709|
