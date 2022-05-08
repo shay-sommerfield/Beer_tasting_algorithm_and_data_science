@@ -1,4 +1,4 @@
-# Beer tasting data science and algroithm
+# Beer tasting data science and algorithm
 ![](images/all_beers_cropped.jpg)
 While bubbled together during the pandemic,  a group of friends and I started doing blind taste tests for fun and to determine if we actually had "refined" taste or if we were just pretentious.
 
@@ -49,7 +49,7 @@ Using the above ranking process, all beers were ranked 1 - 12.
 |Montucky Cold Snacks                 |  2.4|
 |Hamm's                               |  5.8|
 
-The average appears that there is a high rating for Montucky Cold Snacks, a low rating for Budweiser, and everything else at the middle of the pack. 
+The average shows high rating for Montucky Cold Snacks, a low rating for Budweiser, and everything else at the middle of the pack. 
 
 ### Standard deviation of Ranking
 | Beer | Standard deviation amongst our group|
@@ -66,7 +66,7 @@ The average appears that there is a high rating for Montucky Cold Snacks, a low 
 |Miller High Life                    |  4.604346|
 |Montucky Cold Snacks                |  0.547723|
 
-The standard deviation shows our agreement among the above average rankings. It appears that all five of us agreed that Montucky Cold Snacks was by far the best tasting and that we all absolutely disliked Budweiser. While all other beers are middle of the pack in rating, the standard deviation showed that we all definitevely agreed on PBR's placement, indicating that (at least amongst our group) PBR is a decent average beer and therefore not a bad choice to buy for an event in which you might want to buy a lot of a cheaper beer in bulk. 
+The standard deviation shows our agreement among the above average rankings. It appears that all five of us agreed that Montucky Cold Snacks was by far the best tasting and that we all absolutely disliked Budweiser. While all other beers are middle of the pack in rating, the standard deviation showed that we all definitely agreed on PBR's placement, indicating that (at least amongst our group) PBR is a decent average beer and therefore not a bad choice to buy for an event in which you might want to buy a lot of a cheaper beer in bulk. It also shows that any other beer is up to an individual's preference.
 ## What we would change
 The beers got warm pretty quickly, so either cooling them somehow or having a cold version anonymized and ready would be important.
 
