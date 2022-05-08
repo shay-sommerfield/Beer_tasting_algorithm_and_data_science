@@ -33,8 +33,9 @@ We quickly realized that the tastes of the beers were blending together since th
 
 ## Results
 
+### Average Ranking
 | Name | Average Ranking|
-| ----- | ----- |
+| ----- | -- |
 |Kokanee                              |  6.2|
 |10 Barrel Pub Beer (craft control)   |  5.4|
 |Rolling Rock                         |  5.8|
@@ -48,9 +49,24 @@ We quickly realized that the tastes of the beers were blending together since th
 |Montucky Cold Snacks                 |  2.4|
 |Hamm's                               |  5.8|
 
+The average appears that there is a high rating for Montucky Cold Snacks, a low rating for Budweiser, and everything else at the middle of the pack. 
 
+### Standard deviation of Ranking
+| Name | Average Ranking|
+| ----- | -- |
+|Kokanee                             |  3.563706|
+|10 Barrel Pub Beer (craft control)  |  3.577709|
+|Rolling Rock                        |  4.868265|
+|Coors Banquet                       |  3.435113|
+|PBR                                 |  0.894427|
+|Rainier                             |  2.701851|
+|Tecate                              |  3.114482|
+|Modelo                              |  2.966479|
+|Budweiser                           |  1.000000|
+|Miller High Life                    |  4.604346|
+|Montucky Cold Snacks                |  0.547723|
 
-The standard deviation shows our agreement among beer ranking. It appears that all five of us agreed that Montucky Cold Snacks was by far the best tasting, PBR is a decent middle of the pack beer, and that we all absolutely disliked budweiser. Anything else can just be considered preferential.
+The standard deviation shows our agreement among the above average rankings. It appears that all five of us agreed that Montucky Cold Snacks was by far the best tasting and that we all absolutely disliked Budweiser. While all other beers are middle of the pack in rating, the standard deviation showed that we all definitevely agreed on PBR's placement, indicating that (at least amongst our group) PBR is a decent average beer and therefore not a bad choice to buy for an event in which you might want to buy a lot of a cheaper beer in bulk. 
 ## What we would change
 The beers got warm pretty quickly, so either cooling them somehow or having a cold version anonymized and ready would be important.
 
