@@ -20,7 +20,8 @@ We did the test as a double blind so that no person would know which beer they w
 1. Taste the first beer and then the second beer and rank them relative to each other
 2. Taste the third beer and compare it to the first and second beer
 3. Taste the 4 fourth beer and compare it to the middle ranked beer from the first three.
-    1. If it tastes better, compare it to your highest ranked beer; If worse compare to the lowest ranked beer.
+    * If it tastes better, compare it to your highest ranked beer
+    * If worse compare to the lowest ranked beer.
 4. Repeat this process for all beers, making comparisons as necessary until you have established a ranking.
 
 ## Results
