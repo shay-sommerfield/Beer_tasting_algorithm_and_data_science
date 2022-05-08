@@ -20,7 +20,8 @@ We eventually decided to do this with more standard lighter beer to determine if
 We did the test as a double blind so that no person would know which beer they were drinking. 
 ![](images/first_marking_2_cropped.jpg)
 We quickly realized that the tastes of the beers were blending together since there were so many, so I came up with a rating strategy that ended up looking pretty algorithmic.
-For N beers:
+
+### Beer ranking algorithm
 1. Taste the first beer and then the second beer and rank them relative to each other.
 2. Taste the third beer and rank it relative to the first and second beer.
 3. For the rest of the beers, taste the current beer and compare it to the middle ranked beer(s) of the beers that you have already ranked.
@@ -29,6 +30,7 @@ For N beers:
     * Repeat step 3 until the beer has been ranked.
 4. Repeat this process for all beers, making comparisons as necessary until you have established a ranking for each beer.
 ![](images/second_marking_cropped.jpg)
+
 ## Results
 The standard deviation shows our agreement among beer ranking. It appears that all five of us agreed that Montucky Cold Snacks was by far the best tasting, PBR is a decent middle of the pack beer, and that we all absolutely disliked budweiser. Anything else can just be considered preferential.
 ## What we would change
