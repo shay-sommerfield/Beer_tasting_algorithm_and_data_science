@@ -1,4 +1,5 @@
 # Beer-tasting-experiment
+![](images/all_beers_cropped.jpg)
 While bubbled together during the pandemic,  a group of friends and I started doing blind taste tests for fun and to determine if we actually had "refined" taste or if we were just pretentious.
 
 We eventually decided to do this with more standard lighter beer to determine if we could tell the difference and if our snobby attitude toward lighter beer was valid. The choices were the following, not particularly in any order:
