@@ -17,6 +17,8 @@ We eventually decided to do this with more standard lighter beer to determine if
 * Budweiser
 
 ## Setup
+![](images/first_marking_2_cropped.jpg)
+![](images/second_marking_cropped.jpg)
 We did the test as a double blind so that no person would know which beer they were drinking. We quickly realized that the tastes of the beers were blending together since there were so many, so the here is the rating strategy we came up with:
 1. Taste the first beer and then the second beer and rank them relative to each other
 2. Taste the third beer and compare it to the first and second beer
