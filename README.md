@@ -1,4 +1,4 @@
-# Beer tasting data science and algorithm
+# Beer tasting algorithm and data science
 ![](images/all_beers_cropped.jpg)
 While bubbled together during the pandemic,  a group of friends and I started doing blind taste tests for fun and to determine if we actually had "refined" taste or if we were just pretentious.
 
